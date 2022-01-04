@@ -11,6 +11,6 @@ const CONFIG = {
     reply: ' tớ biết là cậu sẽ không cho tớ biết đâu nên mai tớ mag bông lan trứng muối qua nhéeee',
     mess: 'đừng giận tớ nữa nhaaaaaaa',
     messDesc: 'Tối nay call hummm ',
-    btnAccept: 'ừm :>>>>>>',
+    btnAccept: 'ừm :>>>>>> ',
     messLink: 'https://www.facebook.com/Duyv.296/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
