@@ -6,10 +6,10 @@ const CONFIG = {
     desc: ' mai đi xem phim với tui nhé ',
     btnYes: 'ừmmm ',
     btnNo: ' không^^ ',
-    question:' chị nghĩ lần này của mình sẽ như thế nào',
+    question:' iêu em khummm',
     btnReply: '<3',
-    reply: ' kbt là pud nghĩ như nào nhưng mà em sẽ yêu chị bằng tất cả những gì em có đến khi nào em không thể nữa',
-    mess: 'đừng nghi gì nhiều nhaa',
+    reply: ' phải yêu chứ, không yêu thử xem',
+    mess: 'lớp diuu <3',
     messDesc: '4h tui qua đón đi xem phim nhé',
     btnAccept: 'ừm :>>>>>> ',
     messLink: 'https://www.facebook.com/Duyv.296/' //link mess của các bạn. VD: https://m.me/nam.nodemy
