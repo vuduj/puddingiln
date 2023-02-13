@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'always love u',
     question:' you are the apple of my eye',
     btnReply: '<3',
-    reply: ' happy our 1st valentine ^^',
+    reply: ' hê dự kiến trong khoảng 8-10 tối nai cũng sẽ có 1 tình iu đc ship đến pudding nhíaaaa',
     mess: 'love u, mah pudding pie',
     messDesc: 'nhớ kiên trì lấy gốc toán cho tui nhies :>>',
     btnAccept: 'anh yêu em.',
